@@ -1,9 +1,9 @@
 # 👋 Hey there, I'm Kyle Chua
 
-🎮 **Game Developer | Software Engineer | CS Graduate**
-💡 I love creating interactive, data-driven, and immersive experiences.
-🌱 Currently focusing on **Unity**, **C#**, and **full-stack web development**.
-🔍 Open to opportunities in **game development** and **software engineering** (US / Japan).
+🎮 **Game Developer | Software Engineer | CS Graduate**␣␣
+💡 I love creating interactive, data-driven, and immersive experiences.␣␣
+🌱 Currently focusing on **Unity**, **C#**, and **full-stack web development**.␣␣
+🔍 Open to opportunities in **game development** and **software engineering** (US / Japan).␣␣
 
 ---
 
